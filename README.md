@@ -1,4 +1,4 @@
-# how-to-disable-the-ripple-effect-in-.net-maui-expander
+# How to disable the ripple effect in .NET MAUI Expander?
 
 This short guide shows how to disable (or customize) the ripple/tap background effect that appears on Syncfusion's SfExpander header in a .NET MAUI app. The sample project included in this repository demonstrates a simple, production-friendly approach that keeps the Expander header visuals intact while removing the default ripple highlight that may be undesirable for certain designs.
 
